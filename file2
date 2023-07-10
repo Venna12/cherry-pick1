@@ -9,4 +9,17 @@ pipeline {
  }
 }
 }
+DOCKER 
+FROM nginx
+RUN apt update
+CMD mkdir Madhu
+
+
+
+
+
+
+
+
+
 
